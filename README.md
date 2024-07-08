@@ -5,7 +5,7 @@ Projeto se baseou em criar uma pagina de formulario usando os conceitos aprendid
 
 Nele tivemos que integrar HTML e CSS;
 
-No meu trabalho em questão eu produzi uma pagina de cadastro de perfil;
+No meu trabalho em questão eu produzi uma pagina pesquisa de IBGE;
 
 #Comandos
 
